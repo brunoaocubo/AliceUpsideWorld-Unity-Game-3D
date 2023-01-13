@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 009a2ccad1535c8489a247a0857cade2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -7388893807706565593
+    second: porta|plantacaoAction
+  - first:
+      74: 931341314350007212
+    second: Porta Animation
+  - first:
+      74: 4695081939492318702
+    second: porta|quadrado1Action
+  - first:
+      74: -1585576594159581854
+    second: porta|quadrado2Action
+  - first:
+      74: -3473476239780115080
+    second: porta|quadrado3Action
+  - first:
+      74: -7010406846523123303
+    second: porta|quadrado4Action
+  - first:
+      74: -6146634246834625825
+    second: plantacao|plantacaoAction
+  - first:
+      74: -5185076341942697184
+    second: plantacao|portaAction.001
+  - first:
+      74: 3382197938186532249
+    second: plantacao|quadrado1Action
+  - first:
+      74: -8391517029737108952
+    second: plantacao|quadrado2Action
+  - first:
+      74: 4314537669199221235
+    second: plantacao|quadrado3Action
+  - first:
+      74: -144498600764015644
+    second: plantacao|quadrado4Action
+  - first:
+      74: -2132059491684246281
+    second: quadrado1|plantacaoAction
+  - first:
+      74: 5367213084789890741
+    second: quadrado1|portaAction.001
+  - first:
+      74: -1908996249099028650
+    second: quadrado1|quadrado1Action
+  - first:
+      74: 3855889034024696687
+    second: quadrado1|quadrado2Action
+  - first:
+      74: -8472997970967376447
+    second: quadrado1|quadrado3Action
+  - first:
+      74: 5376452680360727703
+    second: quadrado1|quadrado4Action
+  - first:
+      74: 7966762090014139010
+    second: quadrado2|plantacaoAction
+  - first:
+      74: -6984681107604935140
+    second: quadrado2|portaAction.001
+  - first:
+      74: -4998540154154471580
+    second: quadrado2|quadrado1Action
+  - first:
+      74: 7154420778705690128
+    second: quadrado2|quadrado2Action
+  - first:
+      74: 2869648384075620578
+    second: quadrado2|quadrado3Action
+  - first:
+      74: -6728719031527341837
+    second: quadrado2|quadrado4Action
+  - first:
+      74: 4908111638832242084
+    second: quadrado3|plantacaoAction
+  - first:
+      74: 1121094212983207554
+    second: quadrado3|portaAction.001
+  - first:
+      74: 9054306327492635900
+    second: quadrado3|quadrado1Action
+  - first:
+      74: 5304257316724463144
+    second: quadrado3|quadrado2Action
+  - first:
+      74: 102905153852652538
+    second: quadrado3|quadrado3Action
+  - first:
+      74: -320239571901137607
+    second: quadrado3|quadrado4Action
+  - first:
+      74: -4781460130866167682
+    second: quadrado4|plantacaoAction
+  - first:
+      74: 1809948992157141017
+    second: quadrado4|portaAction.001
+  - first:
+      74: -8292825795808854767
+    second: quadrado4|quadrado1Action
+  - first:
+      74: 7485912835510048564
+    second: quadrado4|quadrado2Action
+  - first:
+      74: 5718412488825708208
+    second: quadrado4|quadrado3Action
+  - first:
+      74: -3794775207032679771
+    second: quadrado4|quadrado4Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Porta Animation
+      takeName: porta|portaAction.001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

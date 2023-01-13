@@ -1,0 +1,4 @@
+repository "AliceUpside@AliceUpside@cloud"
+  path "/"
+    br "/main"
+    co "/main"
